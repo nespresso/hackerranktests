@@ -1,0 +1,32 @@
+[
+    {
+        "name": "France",
+        "thumbnail": "FRA_thumb.png",
+        "photo": "FRA.png",
+        "description": "France, officially the French Republic, is a country with territory status in western Europe and several overseas regions and territories.[XIII] The European, or metropolitan, area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. The republic also includes French Guiana on the South American continent and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions (5 of which are situated overseas) span a combined area of 643,801 square kilometres (248,573 sq mi) which, as of January 2017, has a total population of almost 67 million people. France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban centres include Marseille, Lyon, Lille, Nice, Toulouse and Bordeaux."
+    },
+    {
+        "name": "Germany",
+        "thumbnail": "GER_thumb.png",
+        "photo": "GER.png",
+        "description": "Germany, officially the Federal Republic of Germany is a federal parliamentary republic in central-western Europe. It includes 16 constituent states, covers an area of 357,021 square kilometres (137,847 sq mi), and has a largely temperate seasonal climate. With about 82 million inhabitants, Germany is the most populous member state of the European Union. After the United States, it is the second most popular immigration destination in the world.[9][10] Germany's capital and largest metropolis is Berlin, while its largest conurbation is the Ruhr, with its main centres of Dortmund and Essen. The country's other major cities are Hamburg, Munich, Cologne, Frankfurt, Stuttgart, Düsseldorf, Leipzig, Bremen, Dresden, Hannover and Nuremberg."
+    },
+    {
+        "name": "Brasil",
+        "thumbnail": "BRA_thumb.png",
+        "photo": "BRA.png",
+        "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. As the world's fifth-largest country by both area and population, it is the largest country to have Portuguese as an official language and the only one in the Americas. Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi) It borders all other South American countries except Ecuador and Chile and covers 47.3% of the continent's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection."
+    },
+    {
+        "name": "Italy",
+        "thumbnail": "ITA_thumb.png",
+        "photo": "ITA.png",
+        "description": "Italy, officially the Italian Republic is a unitary parliamentary republic in Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km2 (116,347 sq mi) and has a largely temperate seasonal and Mediterranean climate. Due to its shape, it is often referred to in Italy as lo Stivale (the Boot). With 61 million inhabitants, it is the fourth most populous EU member state."
+    },
+    {
+        "name": "Switzerland",
+        "thumbnail": "SUI_thumb.png",
+        "photo": "SUI.png",
+        "description": "Switzerland, officially the Swiss Confederation, is a federal republic in Europe. It consists of 26 cantons, and the city of Bern is the seat of the federal authorities. The country is situated in western-Central Europe, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura, spanning an area of 41,285 km2 (15,940 sq mi). While the Alps occupy the greater part of the territory, the Swiss population of approximately eight million people is concentrated mostly on the plateau, where the largest cities are to be found: among them are the two global cities and economic centres Zürich and Geneva."
+    }
+]
